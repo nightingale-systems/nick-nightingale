@@ -2,7 +2,7 @@
 - 👀 I’m interested in user-centred design & research, data science, NLP and 5G.
 - 🌱 I’m currently learning Figma, Java, Python and C/C++.
 - 💞️ I’m looking to collaborate on anything cool I can help out with! Especially research projects.
-- 📫 How to reach me ...
+- 📫 How to reach me : email, twitter, discord! Don't b shy =)
 
 <!---
 bolaji-onanuga/bolaji-onanuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
